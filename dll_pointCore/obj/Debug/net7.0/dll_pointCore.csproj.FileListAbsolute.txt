@@ -1,0 +1,12 @@
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\bin\Debug\net7.0\dll_pointCore.deps.json
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\bin\Debug\net7.0\dll_pointCore.dll
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\bin\Debug\net7.0\dll_pointCore.pdb
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\obj\Debug\net7.0\dll_pointCore.csproj.AssemblyReference.cache
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\obj\Debug\net7.0\dll_pointCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\obj\Debug\net7.0\dll_pointCore.AssemblyInfoInputs.cache
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\obj\Debug\net7.0\dll_pointCore.AssemblyInfo.cs
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\obj\Debug\net7.0\dll_pointCore.csproj.CoreCompileInputs.cache
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\obj\Debug\net7.0\dll_pointCore.dll
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\obj\Debug\net7.0\refint\dll_pointCore.dll
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\obj\Debug\net7.0\dll_pointCore.pdb
+C:\Users\Fred Tchiadeu\RiderProjects\clientConsole\dll_pointCore\obj\Debug\net7.0\ref\dll_pointCore.dll
